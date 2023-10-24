@@ -1,0 +1,6 @@
+@MobilunityTestTask.Server_HostAddress = http://localhost:5068
+
+GET {{MobilunityTestTask.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

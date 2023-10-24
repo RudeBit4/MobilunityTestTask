@@ -1,0 +1,22 @@
+[
+  {
+    "CategoryId": 1,
+    "CategoryName": "Fruits",
+    "ParentCategoryId": null
+  },
+  {
+    "CategoryId": 2,
+    "CategoryName": "Apples",
+    "ParentCategoryId": 1
+  },
+  {
+    "CategoryId": 3,
+    "CategoryName": "Red Apples",
+    "ParentCategoryId": 2
+  },
+  {
+    "CategoryId": 4,
+    "CategoryName": "Green Apples",
+    "ParentCategoryId": 2
+  }
+]
