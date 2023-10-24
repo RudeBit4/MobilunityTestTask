@@ -54,16 +54,6 @@ Required tools to prepare before the meeting -
 
 
 Developer tools for building Angular page +  C# server side"
-3. SQL short question as follows - plan note the answer should be in SQL syntax not in C#:
-
-You have 2 tables : Sales , and SalesDetails .
-Table Sales fields :
-SaleID, SaleDate, BuyerEmail.
-Table SalesDetails fields :
-SaleID,ProductID,ProductName,ProductQuantity,ProductPrice.
-
-Question:  I want to get all the emails of the buyers that their average daily total payment amount is over 1000.
-
 
 Angular Material
 https://material.angular.io
