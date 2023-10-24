@@ -1,8 +1,5 @@
 # MobilunityTestTask
 
-"below are revised instructions - 
-
-
 Below is data model object that describes Categories and Sub Categories  - unlimited levels 
 
 
